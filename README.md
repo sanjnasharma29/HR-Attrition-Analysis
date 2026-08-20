@@ -179,9 +179,6 @@ Potential areas of investigation include:
 * Differences in attrition across age groups.
 * Relationship between job satisfaction and employee retention.
 
-> **Note:** Final insights should be based on the actual results from the Power BI dashboard rather than assumptions.
-
----
 
 ## 📊 Power BI Dashboard
 
@@ -245,9 +242,3 @@ The dashboard provides HR teams with an interactive way to explore employee attr
 * Data Storytelling
 
 ---
-
-### 📌 Resume Project Title
-
-**HR Employee Attrition Analysis | Excel & Power BI**
-
-This is a good project to include in your **fresher Data Analyst resume**, especially because it demonstrates both **data preparation and visualization/business analysis**.
